@@ -1,0 +1,6 @@
+D:\C#\BookManager_0\BookManager_0\bin\Debug\BookManager_0.exe.config
+D:\C#\BookManager_0\BookManager_0\bin\Debug\BookManager_0.exe
+D:\C#\BookManager_0\BookManager_0\bin\Debug\BookManager_0.pdb
+D:\C#\BookManager_0\BookManager_0\obj\Debug\BookManager_0.csprojResolveAssemblyReference.cache
+D:\C#\BookManager_0\BookManager_0\obj\Debug\BookManager_0.exe
+D:\C#\BookManager_0\BookManager_0\obj\Debug\BookManager_0.pdb
